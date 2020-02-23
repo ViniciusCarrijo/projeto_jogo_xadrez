@@ -1,2 +1,3 @@
-# projeto_jogo_xadrez
-Jogo de xadrez desenvolvido em Java
+# Projeto de um jogo de xadrez
+
+- Jogo de xadrez desenvolvido em Java
